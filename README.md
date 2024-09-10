@@ -12,7 +12,9 @@ Acesso aos dados da Análise Exploratória: https://github.com/GrupoProjetoAplic
 #
 Membros
 
+Carla Pollastrini
 
+Felipe Akira Fukue
 
 Giovanna Sobral da Silva
 
