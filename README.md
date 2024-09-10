@@ -5,9 +5,9 @@ O presente projeto tem como objetivo principal realizar um estudo prático sobre
 
 Acesso ao documento do projeto: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Documento
 
-Acesso aos dados: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Data
+Acesso aos dados: https://github.com/GrupoProjetoAplicado/Projeto-Aplicado-II/tree/main/Data
 
-Acesso aos dados da Análise Exploratória: https://github.com/GrupoProjetoAplicado/Projeto/tree/main/Data/An%C3%A1lise%20Explorat%C3%B3ria
+Acesso aos dados da Análise Exploratória: https://github.com/GrupoProjetoAplicado/Projeto-Aplicado-II/tree/main/Data/An%C3%A1lise%20Explorat%C3%B3ria
 
 #
 Membros
