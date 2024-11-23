@@ -9,6 +9,8 @@ Acesso aos dados: https://github.com/GrupoProjetoAplicado/Projeto-Aplicado-II/tr
 
 Acesso aos dados da Análise Exploratória: https://github.com/GrupoProjetoAplicado/Projeto-Aplicado-II/tree/main/Data/An%C3%A1lise%20Explorat%C3%B3ria
 
+Vídeo: https://www.youtube.com/watch?v=Ui7m1HiAWpo
+
 #
 Membros
 
